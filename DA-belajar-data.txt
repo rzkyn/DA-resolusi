@@ -2,3 +2,6 @@ DA Belajar
 - Konsisten belajar data analist
 - Belajar Pyton dan MYSql
 - Belajar Excel 
+
+Belajar Figma 
+Buat Project untuk Portofolio
